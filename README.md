@@ -7,8 +7,6 @@ After installation, you can just run script file by command :
 ```
 bash EasyAlias.sh
 ```
-Also, you can use this script to run it as alias. Example :
-```
-ealias="bash EasyAlias.sh"
-```
-Enjoy =)
+Also, you can use this script to run next time the same script as alias. Example :
+![image](https://user-images.githubusercontent.com/58532577/193473395-44c2f4e1-369b-4a02-8bcb-e46b85dfb982.png)
+Enjoy this tool =)
