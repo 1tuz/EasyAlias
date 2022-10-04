@@ -1,7 +1,7 @@
 # EasyAlias
 Easy way to add aliases to your .zshrc file!
 ```
-wget https://raw.githubusercontent.com/1tuz/EasyAlias/main/EasyAlias.sh
+curl -O https://raw.githubusercontent.com/1tuz/EasyAlias/main/EasyAlias.sh
 ```
 After installation, you can just run script file by command :
 ```
