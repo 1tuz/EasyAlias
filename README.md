@@ -8,5 +8,5 @@ After installation, you can just run script file by command :
 bash EasyAlias.sh
 ```
 Also, you can use this script to run next time the same script as alias. Example :
-![image](https://user-images.githubusercontent.com/58532577/193750112-7f3f409e-ba06-4d6b-a930-bbc3750f2bd2.png)
+![image](https://user-images.githubusercontent.com/58532577/193750491-2ed22ec7-a9e4-4afd-974b-c638d0cf01c0.png)
 Enjoy this tool =)
